@@ -1,0 +1,5 @@
+list=[34,45,3,67]
+print [0]
+print [0:]
+print[2:]
+print[0:2]
