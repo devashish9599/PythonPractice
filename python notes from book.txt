@@ -1,0 +1,2 @@
+Python notes: (operators in python)
+

@@ -1,0 +1,2 @@
+flowchart=(A flowchart, will describe the operations in a sequence that are required to solve a specified problem.)
+alogrithm=(an Algorithm is a step-by-step sequence of instructions to solve a problem.)
